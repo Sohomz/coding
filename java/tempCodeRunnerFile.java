@@ -1,0 +1,1 @@
+System.out.println(obj1.num1);
